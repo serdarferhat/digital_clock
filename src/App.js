@@ -7,8 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className='clock'>
-      <h3>Digital Clock</h3>
-      
+      <h3>Digital Saat</h3>
       <Hour />
       <span>:</span>
       <Minute />
